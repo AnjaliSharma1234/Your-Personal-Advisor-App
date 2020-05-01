@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal-Advisor-React-App/static/css/main.35f0bc35.chunk.css",
+    "main.js": "/Personal-Advisor-React-App/static/js/main.c37a4718.chunk.js",
+    "main.js.map": "/Personal-Advisor-React-App/static/js/main.c37a4718.chunk.js.map",
+    "runtime-main.js": "/Personal-Advisor-React-App/static/js/runtime-main.cb5c69f0.js",
+    "runtime-main.js.map": "/Personal-Advisor-React-App/static/js/runtime-main.cb5c69f0.js.map",
+    "static/js/2.e9738c6a.chunk.js": "/Personal-Advisor-React-App/static/js/2.e9738c6a.chunk.js",
+    "static/js/2.e9738c6a.chunk.js.map": "/Personal-Advisor-React-App/static/js/2.e9738c6a.chunk.js.map",
+    "index.html": "/Personal-Advisor-React-App/index.html",
+    "precache-manifest.6ff8cb788e3d4562352427b6489bc206.js": "/Personal-Advisor-React-App/precache-manifest.6ff8cb788e3d4562352427b6489bc206.js",
+    "service-worker.js": "/Personal-Advisor-React-App/service-worker.js",
+    "static/css/main.35f0bc35.chunk.css.map": "/Personal-Advisor-React-App/static/css/main.35f0bc35.chunk.css.map",
+    "static/js/2.e9738c6a.chunk.js.LICENSE.txt": "/Personal-Advisor-React-App/static/js/2.e9738c6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb5c69f0.js",
+    "static/js/2.e9738c6a.chunk.js",
+    "static/css/main.35f0bc35.chunk.css",
+    "static/js/main.c37a4718.chunk.js"
+  ]
+}
